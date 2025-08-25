@@ -35,7 +35,6 @@ max_temp=df['temperature'].max()
 min_temp=df['temperature'].min()
 print(max_temp)
 print(min_temp)
-total_row=df.filter('temperature'== max_temp)
 
 
 
