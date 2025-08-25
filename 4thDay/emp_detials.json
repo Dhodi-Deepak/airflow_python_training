@@ -1,0 +1,24 @@
+{
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "age": 28,
+  "isStudent": false,
+  "address": {
+    "streetAddress": "123 Main Street",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "555-123-4567"
+    },
+    {
+      "type": "work",
+      "number": "555-987-6543"
+    }
+  ],
+  "hobbies": ["reading", "hiking", "cooking"],
+  "projects": null
+}
